@@ -1,0 +1,25 @@
+Event	ID	Name			Wwise Object Path	Notes
+	154721382	GetItem			\Default Work Unit\GetItem	
+	340271938	walking			\Default Work Unit\FootStep\walking	
+	645831144	QuestCompleted			\Default Work Unit\QuestCompleted	
+	1551306167	UI			\Default Work Unit\UI	
+	1877847629	Door			\Default Work Unit\Door	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	39791156	Footstep_Dirt_08	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\C8\{C87BEC0B-0454-4722-B88E-8DAB7A10A262}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_08		17760
+	61481934	Footstep_Dirt_07	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\B1\{B10E7EC1-7A07-B48E-A9A3-3926508A4E35}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_07		33632
+	83930179	Footstep_Dirt_00	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\91\{91D91D08-E012-318B-D274-14B248C00A57}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_00		22368
+	125904099	DM-CGS-30	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\76\{766B6A60-A1C3-20B1-1B17-446794687BCE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_System\UI_Randomn\DM-CGS-30		87956
+	182445067	Footstep_Dirt_03	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\AB\{AB2783D2-CB36-CFEE-D0EB-6991BB1CEDA0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_03		28768
+	249656894	Footstep_Dirt_02	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\B3\{B37F4DF6-0DC8-56FC-5AA9-37712CC9E97F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_02		32608
+	310652265	GetItems	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\A4\{A4E06135-1B43-6309-E828-CA80DAD38256}.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_System\GetItems		480096
+	377677261	Door	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\28\{28B74231-E038-59E2-005F-6F869341B1A8}.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_System\Door		220596
+	406435845	Footstep_Dirt_06	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\A7\{A70C5057-C05B-6B24-3F91-AC96440FA233}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_06		32608
+	530075265	QuestCompleted	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\C5\{C5F02F1E-7064-EBFF-B17A-391F4EB084AF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_System\QuestCompleted		193656
+	664435194	Footstep_Dirt_05	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\29\{29978182-DE8D-D27E-7EEA-7E5EED71B1C9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_05		31328
+	675313851	DM-CGS-16	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\9E\{9E606031-80F5-703D-1F88-1DEFF53B4A1F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_System\UI_Randomn\DM-CGS-16		31564
+	763200184	Footstep_Dirt_09	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\AB\{ABE1B12A-19D3-CD0B-9495-E9ABB32D30EB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_09		34912
+	872271076	DM-CGS-14	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\6D\{6D5F6AD4-7D87-C2AC-1AD4-E141FF1864B9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_System\UI_Randomn\DM-CGS-14		42452
+	889668301	Footstep_Dirt_04	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\72\{726B54A9-19E2-DA02-8612-2FBAC651BEB0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_04		24160
+	966072676	Footstep_Dirt_01	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\C1\{C19FAD63-D6B7-0270-1474-4078C2131D52}.wem		\Actor-Mixer Hierarchy\Default Work Unit\FootSteps\Dirt\Footstep_Dirt_01		26208
+

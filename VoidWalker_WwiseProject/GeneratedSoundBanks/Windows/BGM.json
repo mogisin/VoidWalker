@@ -1,0 +1,85 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "412724365",
+    "Type": "User",
+    "GUID": "{7E3C988C-E42D-4C95-B6FB-409F27A59C58}",
+    "Language": "SFX",
+    "Hash": "{9E992F19-70A9-0ECD-E1DC-783AEBB26517}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\BGM",
+    "ShortName": "BGM",
+    "Path": "BGM.bnk",
+    "Media": [
+     {
+      "Id": "49541468",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "midnight-forest-184304.wav",
+      "CachePath": "77/{77532102-ECE0-385C-6CF1-20478E0F20CD}.wem"
+     },
+     {
+      "Id": "414727764",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "forest-lullaby-110624.wav",
+      "CachePath": "85/{855A61B5-2F92-472A-A5BA-B5BE168E6F35}.wem"
+     },
+     {
+      "Id": "862525818",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "The same sky, The same duty.wav",
+      "CachePath": "C7/{C7115E07-A8FC-1410-4678-AB49C4FF0BB8}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2720388804",
+      "Name": "BGM_Inside",
+      "ObjectPath": "\\Events\\Default Work Unit\\BGM\\BGM_Inside",
+      "GUID": "{BFF6A294-8E69-4A24-994C-36012AE0D1C1}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "49541468"
+       }
+      ]
+     },
+     {
+      "Id": "1206170669",
+      "Name": "BGM_Outside",
+      "ObjectPath": "\\Events\\Default Work Unit\\BGM\\BGM_Outside",
+      "GUID": "{40CAEF25-47B2-4E50-B3C1-D47F1D27A0EA}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "414727764"
+       }
+      ]
+     },
+     {
+      "Id": "365420952",
+      "Name": "BGM_Seoul",
+      "ObjectPath": "\\Events\\Default Work Unit\\BGM\\BGM_Seoul",
+      "GUID": "{ACD8C79B-8B7F-452C-B0B7-D74AF9EE7134}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "862525818"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A71C6B79-C10E-3CD1-6B92-B402BC0DA981}"
+ }
+}

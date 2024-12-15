@@ -1,0 +1,25 @@
+Event	ID	Name			Wwise Object Path	Notes
+	192282018	Mob2_Idle			\Default Work Unit\Attack\Mob2_Idle	
+	1178284238	Mob6_Idle			\Default Work Unit\Attack\Mob6_Idle	
+	1201288462	NMob_Draw			\Default Work Unit\Attack\NMob_Draw	
+	1352535442	NMob_Howl			\Default Work Unit\Attack\NMob_Howl	
+	1397104287	Mob_S			\Default Work Unit\Attack\Mob_S	
+	1559539201	Mob3_Idle			\Default Work Unit\Attack\Mob3_Idle	
+	2434709472	Mob_Fire			\Default Work Unit\Attack\Mob_Fire	
+	3356860455	Haru_Q			\Default Work Unit\Attack\Haru_Q	
+	3356860467	Haru_E			\Default Work Unit\Attack\Haru_E	
+	3623948781	Mob7_Idle			\Default Work Unit\Attack\Mob7_Idle	
+	3744128336	Mob4_Idle			\Default Work Unit\Attack\Mob4_Idle	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	150028081	NMob_Howl_02	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\31\{31B02C86-A759-BEAC-B197-98CB93C0A6D9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Attack\NMob_Howling\NMob_Howl_02		273740
+	254559419	Click_Electronic_03	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\FD\{FDECC521-4B55-A7CD-69FC-2EDE95540FEA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mob_Idle\Idle\Click_Electronic_03		32968
+	322901725	Click_Electronic_00	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\89\{89013FAE-91BF-212A-C2E0-BD6C9D739A06}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mob_Idle\Idle\Click_Electronic_00		44360
+	451785815	Click_Electronic_02	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\38\{38669CA6-692A-6BA4-A1BB-10A6AD90514C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mob_Idle\Idle\Click_Electronic_02		23096
+	548280382	Click_Electronic_01	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\D8\{D8CC1440-0308-842C-E6CA-0FC6EEFC55F5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mob_Idle\Idle\Click_Electronic_01		13400
+	602042111	35_Miss_Evade_01	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\A0\{A05A4C00-9F86-E04B-41F6-F74F4B87656E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Attack\Mob_Sword\35_Miss_Evade_01		64800
+	723751347	Mgc_Fire_Impact_02	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\EC\{EC948935-595A-C68F-3A98-3DDE981AC491}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Attack\Haru_Q\Mgc_Fire_Impact_02		204776
+	735850080	NMob_Draw	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\BE\{BE4E3D32-574C-46A1-F26F-7BAA73ED675D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Attack\NMob_Draw		545612
+	835152341	Mgc_Fire_Throw_03	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\06\{06BEA28D-A2EE-B2B7-43A3-B35E71AA25B5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Attack\Mob_Fire\Mgc_Fire_Throw_03		141268
+	867155830	Spell_02	C:\Users\nhc33\Desktop\Develope\VoidWalker\VoidWalker\VoidWalker\VoidWalker_WwiseProject\.cache\6A\{6A56A511-7D88-A488-94D8-C0239025A525}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Attack\Haru_E\Spell_02		600840
+

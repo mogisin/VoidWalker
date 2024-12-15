@@ -1,0 +1,309 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "180661997",
+    "Type": "User",
+    "GUID": "{C7F55202-FD89-4C67-AF85-0EDABC666384}",
+    "Language": "SFX",
+    "Hash": "{AF735B80-30C8-0FD5-A8DA-5852A4DDEC2A}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Attack",
+    "ShortName": "Attack",
+    "Path": "Attack.bnk",
+    "Media": [
+     {
+      "Id": "150028081",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Dragon_Growl_01.wav",
+      "CachePath": "31/{31B02C86-A759-BEAC-B197-98CB93C0A6D9}.wem"
+     },
+     {
+      "Id": "254559419",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Click_Electronic_03.wav",
+      "CachePath": "FD/{FDECC521-4B55-A7CD-69FC-2EDE95540FEA}.wem"
+     },
+     {
+      "Id": "322901725",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Click_Electronic_00.wav",
+      "CachePath": "89/{89013FAE-91BF-212A-C2E0-BD6C9D739A06}.wem"
+     },
+     {
+      "Id": "451785815",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Click_Electronic_02.wav",
+      "CachePath": "38/{38669CA6-692A-6BA4-A1BB-10A6AD90514C}.wem"
+     },
+     {
+      "Id": "548280382",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Click_Electronic_01.wav",
+      "CachePath": "D8/{D8CC1440-0308-842C-E6CA-0FC6EEFC55F5}.wem"
+     },
+     {
+      "Id": "602042111",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "35_Miss_Evade_02.wav",
+      "CachePath": "A0/{A05A4C00-9F86-E04B-41F6-F74F4B87656E}.wem"
+     },
+     {
+      "Id": "723751347",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Mgc_Fire_Impact_01.wav",
+      "CachePath": "EC/{EC948935-595A-C68F-3A98-3DDE981AC491}.wem"
+     },
+     {
+      "Id": "735850080",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Spell_04.wav",
+      "CachePath": "BE/{BE4E3D32-574C-46A1-F26F-7BAA73ED675D}.wem"
+     },
+     {
+      "Id": "835152341",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Mgc_Fire_Throw_01.wav",
+      "CachePath": "06/{06BEA28D-A2EE-B2B7-43A3-B35E71AA25B5}.wem"
+     },
+     {
+      "Id": "867155830",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Spell_02.wav",
+      "CachePath": "6A/{6A56A511-7D88-A488-94D8-C0239025A525}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3356860467",
+      "Name": "Haru_E",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Haru_E",
+      "GUID": "{603B2E00-2E4B-4826-960B-06EDF8B0D8A4}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.4055781",
+      "DurationMax": "6.2458577",
+      "MediaRefs": [
+       {
+        "Id": "867155830"
+       }
+      ]
+     },
+     {
+      "Id": "3356860455",
+      "Name": "Haru_Q",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Haru_Q",
+      "GUID": "{59A38E5B-BB0A-44AC-9DA7-B70A1C66E5C3}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.3402954",
+      "DurationMax": "1.9299662",
+      "MediaRefs": [
+       {
+        "Id": "723751347"
+       }
+      ]
+     },
+     {
+      "Id": "192282018",
+      "Name": "Mob2_Idle",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Mob2_Idle",
+      "GUID": "{CBDF6A09-4FC0-4756-BA24-CBB234AEC3A5}",
+      "MaxAttenuation": "800",
+      "DurationType": "OneShot",
+      "DurationMin": "0.069291666",
+      "DurationMax": "0.23020834",
+      "MediaRefs": [
+       {
+        "Id": "254559419"
+       },
+       {
+        "Id": "322901725"
+       },
+       {
+        "Id": "451785815"
+       },
+       {
+        "Id": "548280382"
+       }
+      ]
+     },
+     {
+      "Id": "1559539201",
+      "Name": "Mob3_Idle",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Mob3_Idle",
+      "GUID": "{418B6BE6-49F6-483E-A683-10E3CBC1E177}",
+      "MaxAttenuation": "800",
+      "DurationType": "OneShot",
+      "DurationMin": "0.069291666",
+      "DurationMax": "0.23020834",
+      "MediaRefs": [
+       {
+        "Id": "254559419"
+       },
+       {
+        "Id": "322901725"
+       },
+       {
+        "Id": "451785815"
+       },
+       {
+        "Id": "548280382"
+       }
+      ]
+     },
+     {
+      "Id": "3744128336",
+      "Name": "Mob4_Idle",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Mob4_Idle",
+      "GUID": "{55503F49-FBDC-4276-B5F4-D3F216A6BE55}",
+      "MaxAttenuation": "800",
+      "DurationType": "OneShot",
+      "DurationMin": "0.069291666",
+      "DurationMax": "0.23020834",
+      "MediaRefs": [
+       {
+        "Id": "254559419"
+       },
+       {
+        "Id": "322901725"
+       },
+       {
+        "Id": "451785815"
+       },
+       {
+        "Id": "548280382"
+       }
+      ]
+     },
+     {
+      "Id": "1178284238",
+      "Name": "Mob6_Idle",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Mob6_Idle",
+      "GUID": "{B49ED83B-B676-4E3D-9DB0-28ED8A96AADA}",
+      "MaxAttenuation": "800",
+      "DurationType": "OneShot",
+      "DurationMin": "0.069291666",
+      "DurationMax": "0.23020834",
+      "MediaRefs": [
+       {
+        "Id": "254559419"
+       },
+       {
+        "Id": "322901725"
+       },
+       {
+        "Id": "451785815"
+       },
+       {
+        "Id": "548280382"
+       }
+      ]
+     },
+     {
+      "Id": "3623948781",
+      "Name": "Mob7_Idle",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Mob7_Idle",
+      "GUID": "{8BF881BD-107A-4DC0-85F4-B2D8C268BCC8}",
+      "MaxAttenuation": "800",
+      "DurationType": "OneShot",
+      "DurationMin": "0.069291666",
+      "DurationMax": "0.23020834",
+      "MediaRefs": [
+       {
+        "Id": "254559419"
+       },
+       {
+        "Id": "322901725"
+       },
+       {
+        "Id": "451785815"
+       },
+       {
+        "Id": "548280382"
+       }
+      ]
+     },
+     {
+      "Id": "2434709472",
+      "Name": "Mob_Fire",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Mob_Fire",
+      "GUID": "{7E31BCBE-BF03-4A2C-A86B-8C39382DE23B}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.80028737",
+      "DurationMax": "1.3076019",
+      "MediaRefs": [
+       {
+        "Id": "835152341"
+       }
+      ]
+     },
+     {
+      "Id": "1397104287",
+      "Name": "Mob_S",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\Mob_S",
+      "GUID": "{7503AFB1-A461-49E4-A913-7BAD90CEA9DF}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.19083154",
+      "DurationMax": "0.31725284",
+      "MediaRefs": [
+       {
+        "Id": "602042111"
+       }
+      ]
+     },
+     {
+      "Id": "1201288462",
+      "Name": "NMob_Draw",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\NMob_Draw",
+      "GUID": "{8821362E-8316-4B75-A8CD-1A82D041471D}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.5310667",
+      "DurationMax": "3.5310667",
+      "MediaRefs": [
+       {
+        "Id": "735850080"
+       }
+      ]
+     },
+     {
+      "Id": "1352535442",
+      "Name": "NMob_Howl",
+      "ObjectPath": "\\Events\\Default Work Unit\\Attack\\NMob_Howl",
+      "GUID": "{B4997438-291E-49EB-82C7-5189F59ED88F}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.0389938",
+      "DurationMax": "4.395998",
+      "MediaRefs": [
+       {
+        "Id": "150028081"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{ECEC2B14-478D-F713-E0D7-2A56EA4D5D1B}"
+ }
+}

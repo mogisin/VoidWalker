@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{0C324D68-8EAA-4F6D-A6E2-272FDB173C08}" SchemaVersion="123">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{0C324D68-8EAA-4F6D-A6E2-272FDB173C08}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{0C324D68-8EAA-4F6D-A6E2-272FDB173C08}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="BGM" ID="{7E3C988C-E42D-4C95-B6FB-409F27A59C58}">
+					<ObjectInclusionList>
+						<ObjectRef Name="BGM_Seoul" ID="{ACD8C79B-8B7F-452C-B0B7-D74AF9EE7134}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BGM_Inside" ID="{BFF6A294-8E69-4A24-994C-36012AE0D1C1}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BGM_Outside" ID="{40CAEF25-47B2-4E50-B3C1-D47F1D27A0EA}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="System_UI" ID="{F5F7008B-307C-4B9A-BDD5-43EE227DD01D}">
+					<ObjectInclusionList>
+						<ObjectRef Name="walking" ID="{A874AB98-0781-40FA-BC93-FF0FF4FF3D91}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door" ID="{63A9B8FF-6BE5-43E3-A5BA-1BEB9B2FF953}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GetItem" ID="{85FD4343-613A-455F-AE88-0BCD8055E76B}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="QuestCompleted" ID="{C41548E0-7391-4773-B03D-00B66393E1C0}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI" ID="{BA750665-9BDA-4E98-B0DA-67451410AE5E}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Attack" ID="{C7F55202-FD89-4C67-AF85-0EDABC666384}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Haru_Q" ID="{59A38E5B-BB0A-44AC-9DA7-B70A1C66E5C3}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Mob_Idle" ID="{CBDF6A09-4FC0-4756-BA24-CBB234AEC3A5}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Haru_E" ID="{603B2E00-2E4B-4826-960B-06EDF8B0D8A4}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Mob_S" ID="{7503AFB1-A461-49E4-A913-7BAD90CEA9DF}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Mob_Fire" ID="{7E31BCBE-BF03-4A2C-A86B-8C39382DE23B}" WorkUnitID="{FD4F1BD4-D763-415A-9F8E-CC6AC354B4E8}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>
