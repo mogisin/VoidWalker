@@ -1,3 +1,12 @@
+# Wwise Exception
+!VoidWalker_WwiseProject/
+VoidWalker_WwiseProject/*
+!VoidWalker_WwiseProject/*
+
+!Content/WwiseAudio
+Content/WwiseAudio/*
+!Content/WwiseAudio/*
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -45,7 +54,6 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/*/Binaries/*
 
 # Builds
 Build/*
